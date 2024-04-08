@@ -1,0 +1,14 @@
+:root{--theme1:#502F8F; --light:#7F65D9 ;}
+.text-justify{text-align: justify;}
+a{text-decoration: none;}
+.bg-theme{background:var(--theme1);}
+.text-bg-theme{background:var(--theme1); color:white }
+.text-theme{color:var(--theme1); }
+*{ font-family: "Madimi One", sans-serif;}
+h1,h2,h3,h4,h5,h6,.tag{font-family: "Playfair Display", serif;}
+.fg-theme{background: var(--light);}
+.iimg{filter: invert(100%);}
+
+.himg{filter: hue-rotate(98deg);}
+#course img:hover{border:medium inset; black; }
+div h4:hover{color: coral;}
